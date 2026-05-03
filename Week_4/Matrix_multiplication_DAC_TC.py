@@ -1,3 +1,7 @@
+# =====================================
+# Week-4 ADA Lab Codes
+# Algorithm Design and Analysis
+# =====================================
 import matplotlib.pyplot as plt
 
 # Matrix sizes and observed times
