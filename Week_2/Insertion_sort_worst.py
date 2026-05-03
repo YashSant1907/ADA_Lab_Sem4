@@ -1,3 +1,7 @@
+# =====================================
+# Week-2 ADA Lab Codes
+# Algorithm Design and Analysis
+# =====================================
 import matplotlib.pyplot as plt
 
 # Input sizes and observed times
