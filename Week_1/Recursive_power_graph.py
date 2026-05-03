@@ -1,5 +1,10 @@
+# =====================================
+# Week-1 ADA Lab Codes
+# Algorithm Design and Analysis
+# =====================================
 import matplotlib.pyplot as plt
 import math
+
 
 # Input values and observed times
 exponents = [100, 500, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000]

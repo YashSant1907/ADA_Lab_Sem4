@@ -1,3 +1,7 @@
+# =====================================
+# Week-1 ADA Lab Codes
+# Algorithm Design and Analysis
+# =====================================
 import matplotlib.pyplot as plt
 
 # Number of disks and observed execution times
