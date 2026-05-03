@@ -1,3 +1,7 @@
+// =====================================
+// Week-6 ADA Lab Codes
+// Algorithm Design and Analysis
+// =====================================
 #include <iostream>
 #include <climits>
 using namespace std;
